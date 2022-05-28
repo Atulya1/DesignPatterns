@@ -1,0 +1,30 @@
+1) How to find the maximum occurring character in given String? ok
+2) How to remove all duplicates from a given string? ok
+3) How to print the duplicate characters from the given String? . ok
+4) How to remove characters from the first String which are present in the second String? ok
+6) How to reverse a given String? ok
+7) How to reverse String without recursion? ok
+12) How to check if two given String is the anagram of each other? . ok
+8) How to print all permutation of a String? 
+9) How to find the first non-repeating character in a given String? . ok
+10) How to reverse the words in a given String sentence? ok
+29) Reverse an array without affecting special characters ok
+24) How to count a number of vowels and consonants in a String? ok
+13) How do you check if a given String is Palindrome or not? ok
+19) How do you check if a given string contains valid parentheses? ok
+28) How to return highest occurred character in a String?
+25) How do you count a number of occurances of a character in a String?
+22) How to reverse String in Java using Iteration and Recursion?
+
+
+
+11) How to find the smallest substring in a given string containing all characters of another string?
+5) How to check if two strings are rotations of each other? ..not ok
+14) How do you convert String to integer?
+15) How do you convert a Roman numeral String to Integer in Java?
+18) How do you count a number of words in String?
+20) How do you find the longest palindromic substring of a given substring?
+23) How to check if a String contains only digits?
+26) How to replace each given character to other e.g. blank with %20?
+27) Write a program to check if a String contains another String like indexOf ()?
+30) All Possible Palindromic Partitions
