@@ -7,3 +7,4 @@ Different Design Patterns in Java
 4. State
 5. Adapter
 6. Command
+7. Decorator
